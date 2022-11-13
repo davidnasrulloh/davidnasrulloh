@@ -1,10 +1,6 @@
-# My Github Portofolio David Nasrulloh
+## My Github Portofolio David Nasrulloh
 
 ## Hi there 👋
-
----
-
-# UI UX Designer / Front End Engineer
 
 ---
 
