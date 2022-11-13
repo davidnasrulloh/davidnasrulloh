@@ -24,6 +24,7 @@
 </p>
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidnasrulloh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="davidnasrulloh" /></p>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidnasrulloh&show_icons=true&locale=en&theme=tokyonight" alt="davidnasrulloh" /></p>
 
 <div align="center">
