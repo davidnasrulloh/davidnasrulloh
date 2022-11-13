@@ -1,8 +1,7 @@
-## Hi there 👋
-
----
-
 ![file1](./img/davidHeader.png)
+
+<h1 align="center">Hi 👋, I'm David Nasrulloh</h1>
+<h3 align="center">A passionate frontend developer and UI UX Research and Design</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
