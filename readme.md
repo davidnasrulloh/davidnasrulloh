@@ -23,8 +23,8 @@
 	<a href="https://www.behance.net/davidnasrulloh" target="blank"><img align="center" src="https://raw.githubusercontent.com/davidnasrulloh/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="davidnasrulloh" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidnasrulloh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="davidnasrulloh" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidnasrulloh&show_icons=true&locale=en&theme=tokyonight" alt="davidnasrulloh" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidnasrulloh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="davidnasrulloh" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidnasrulloh&show_icons=true&locale=en&theme=tokyonight" alt="davidnasrulloh" /></p>
 
 <div align="center">
 		<a href="https://github.com/davidnasrulloh">
