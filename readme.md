@@ -1,4 +1,4 @@
-![file1](./img/davidHeader.png)
+![file1](./img/davidHeader.jpg)
 
 <h1 align="center">Hi 👋, I'm David Nasrulloh</h1>
 <h3 align="center">A passionate Frontend Developer and UI UX Researcher and Designer</h3>
