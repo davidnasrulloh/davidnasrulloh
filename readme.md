@@ -13,6 +13,25 @@
 
 ---
 
+### My Project Self
+
+---
+
+| Project Name          | Link                                                            |
+| --------------------- | --------------------------------------------------------------- |
+| Patungin Mini Project | [Patungin App](https://patungin-miniproject-david.netlify.app/) |
+| Booking Office        | [Better Space App](https://betterspace.netlify.app/)            |
+| Gym Typescript        | [Gym App](https://belajar-typescript.netlify.app/)              |
+| Pokdarwis Gili Iyang  | [Pokdarwis Gili Iyang](https://giliiyang-banraas.netlify.app)   |
+| Learn Hooks React     | [React Hooks](https://learn-react-hooks-david.netlify.app/)     |
+| Netflix Clone         | [Netflix Clone](https://netflix-clone-david.vercel.app/)        |
+| Modern Bank React     | [Modern Bank](https://modern-bank-david.netlify.app/)           |
+| Car Hub Dave          | [Cars Dave App](https://cars-dave-nextjs.vercel.app/)           |
+| My Todo App           | [Todo App](https://todo-dave.netlify.app/)                      |
+| Tugas Weekly David    | [Weekly App](https://tugas-weekly-david.netlify.app/)           |
+
+----
+
 ## Languages and Tools :
 
 ### <p align="left">
