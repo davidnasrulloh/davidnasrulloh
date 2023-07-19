@@ -17,18 +17,18 @@
 
 ---
 
-| Project Name          | Link                                                            |
-| --------------------- | --------------------------------------------------------------- |
-| Patungin Mini Project | [Patungin App](https://patungin-miniproject-david.netlify.app/) |
-| Booking Office        | [Better Space App](https://betterspace.netlify.app/)            |
-| Gym Typescript        | [Gym App](https://belajar-typescript.netlify.app/)              |
-| Pokdarwis Gili Iyang  | [Pokdarwis Gili Iyang](https://giliiyang-banraas.netlify.app)   |
-| Learn Hooks React     | [React Hooks](https://learn-react-hooks-david.netlify.app/)     |
-| Netflix Clone         | [Netflix Clone](https://netflix-clone-david.vercel.app/)        |
-| Modern Bank React     | [Modern Bank](https://modern-bank-david.netlify.app/)           |
-| Car Hub Dave          | [Cars Dave App](https://cars-dave-nextjs.vercel.app/)           |
-| My Todo App           | [Todo App](https://todo-dave.netlify.app/)                      |
-| Tugas Weekly David    | [Weekly App](https://tugas-weekly-david.netlify.app/)           |
+| Project Name          | Link Deployment                                                 | Link Repo Github                                                |
+| --------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- |
+| Patungin Mini Project | [Patungin App](https://patungin-miniproject-david.netlify.app/) | (https://github.com/davidnasrulloh/david-mini-project)          |
+| Booking Office        | [Better Space App](https://betterspace.netlify.app/)            | (https://github.com/Kelompok3-Office-Booking/fe-react)          |
+| Gym Typescript        | [Gym App](https://belajar-typescript.netlify.app/)              | (https://github.com/davidnasrulloh/gym-typescript)              |
+| Pokdarwis Gili Iyang  | [Pokdarwis Gili Iyang](https://giliiyang-banraas.netlify.app)   | (https://github.com/davidnasrulloh/pokdarwis-giliyang)          |
+| Learn Hooks React     | [React Hooks](https://learn-react-hooks-david.netlify.app/)     | (https://github.com/davidnasrulloh/learn-hooks-react)           |
+| Netflix Clone         | [Netflix Clone](https://netflix-clone-david.vercel.app/)        | (https://github.com/davidnasrulloh/netflix-clone)               |
+| Modern Bank React     | [Modern Bank](https://modern-bank-david.netlify.app/)           | (https://github.com/davidnasrulloh/modern-bank-react)           |
+| Car Hub Dave          | [Cars Dave App](https://cars-dave-nextjs.vercel.app/)           | (https://github.com/davidnasrulloh/cars-dave)                   |
+| My Todo App           | [Todo App](https://todo-dave.netlify.app/)                      | (https://github.com/davidnasrulloh/my-todo-app)                 |
+| Tugas Weekly David    | [Weekly App](https://tugas-weekly-david.netlify.app/)           | (https://github.com/davidnasrulloh/tugas-weekly-david)          |
 
 ----
 
