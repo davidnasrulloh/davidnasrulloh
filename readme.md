@@ -13,7 +13,7 @@
 
 ---
 
-### My Project Portfolio
+### My Project - **React JS Portfolio**
 
 ---
 
