@@ -13,7 +13,7 @@
 
 ---
 
-### My Project Self
+### My Project Portfolio
 
 ---
 
