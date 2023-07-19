@@ -13,7 +13,7 @@
 
 ---
 
-### My Project - **React JS Portfolio**
+### Frontend Web Development - **React JS Portfolio** 
 
 ---
 
