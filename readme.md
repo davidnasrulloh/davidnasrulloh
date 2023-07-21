@@ -30,6 +30,16 @@
 | My Todo App           | [Todo App](https://todo-dave.netlify.app/)                      | (https://github.com/davidnasrulloh/my-todo-app)                 |
 | Tugas Weekly David    | [Weekly App](https://tugas-weekly-david.netlify.app/)           | (https://github.com/davidnasrulloh/tugas-weekly-david)          |
 
+
+### Mobile Development - Portfolio 
+
+---
+
+| Project Name          | Link Deployment                                                 | Link Repo Github                                                | Tech Stack                                                      |
+| --------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- |
+| DauRuang App		| [DauRuang App](https://github.com/Bangkit-2023-DauRuang/Mobile-Development-DaurRuang/releases/tag/dauruang) | (https://github.com/Bangkit-2023-DauRuang/Mobile-Development-DaurRuang)          | Kotlin - Android App           |
+
+
 ----
 
 ## Languages and Tools :
