@@ -40,7 +40,7 @@
 | --------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- |
 | DauRuang App				| [DauRuang App](https://github.com/Bangkit-2023-DauRuang/Mobile-Development-DaurRuang/releases/tag/dauruang) 		| (https://github.com/Bangkit-2023-DauRuang/Mobile-Development-DaurRuang)         	| Kotlin - Android App           |
 | Submission Intermediate Dicoding	| [Intermediate](https://github.com/davidnasrulloh/Submission-Android-Intermediate/releases/tag/v0.0.1) 		| (https://github.com/davidnasrulloh/Submission-Android-Intermediate)          		| Kotlin - Android App           |
-| Submission Compose Dicoding		| [Compose]() 														| (https://github.com/davidnasrulloh/Submission-Android-Jetpack-Compose)          	| Kotlin - Android App           |
+| Submission Compose Dicoding		| [Compose](https://github.com/davidnasrulloh/Submission-Android-Jetpack-Compose/releases/tag/v1.0.0) 			| (https://github.com/davidnasrulloh/Submission-Android-Jetpack-Compose)          	| Kotlin - Android App           |
 | Submission Fundamental Dicoding	| [Fundamental](https://github.com/davidnasrulloh/Submission-Android-Fundamental/releases/tag/v0.0.1) 			| (https://github.com/davidnasrulloh/Submission-Android-Fundamental)          		| Kotlin - Android App           |
 | Submission Pemula Dicoding		| [Pemula](https://github.com/davidnasrulloh/Submission-Aplikasi-Android-untuk-Pemula/releases/tag/0.0.1) 		| (https://github.com/davidnasrulloh/Submission-Aplikasi-Android-untuk-Pemula)    	| Kotlin - Android App           |
 
