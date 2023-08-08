@@ -58,10 +58,10 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a>
 <a style="margin: 5px 30px" href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-	<img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png?fm=webp" alt="react" width="40" height="40"/> 
+	<img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png?fm=webp" alt="react" width="80" height="40"/> 
 </a>
 <a style="margin: 5px 30px" href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> 
+	<img src="https://cdn.freebiesupply.com/logos/large/2x/laravel-1-logo-png-transparent.png" alt="laravel" width="40" height="40"/> 
 </a> 
 <a style="margin: 5px 30px" href="https://www.android.com/intl/id_id/" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> 
