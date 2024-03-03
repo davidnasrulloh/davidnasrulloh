@@ -5,11 +5,13 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-	<a href="https://linkedin.com/in/davidnasrulloh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidnasrulloh" height="30" width="40" /></a>
-	<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidnasrulloh" height="30" width="40" /></a>
-	<a href="https://dribbble.com/davidnasrulloh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="davidnasrulloh" height="30" width="40" /></a>
-	<a href="https://www.behance.net/davidnasrulloh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="davidnasrulloh" height="30" width="40" /></a>
-	<a href="https://www.tiktok.com/@davidnasrulloh" target="blank"><img align="center" src="./img/tiktok.png" alt="davidnasrulloh" height="30" width="40" /></a>
+	<a href="https://linkedin.com/in/davidnasrulloh" target="blank"><img align="center" src="./img/icon-sosmed/linkedin.png" alt="davidnasrulloh" height="40" width="40" /></a>
+	<a href="https://instagram.com/davidnasrulloh_" target="blank"><img align="center" src="./img/icon-sosmed/instagram.png" alt="davidnasrulloh_" height="40" width="40" /></a>
+	<a href="https://www.tiktok.com/@davidnasrulloh" target="blank"><img align="center" src="./img/icon-sosmed/tiktok.png" alt="davidnasrulloh" height="40" width="40" /></a>
+	<a href="https://www.facebook.com/nasrullohdavid/" target="blank"><img align="center" src="./img/icon-sosmed/facebook.png" alt="nasrullohdavid" height="40" width="40" /></a>
+	<a href="https://dribbble.com/davidnasrulloh" target="blank"><img align="center" src="./img/icon-sosmed/dribble.png" alt="davidnasrulloh" height="40" width="40" /></a>
+	<a href="https://www.behance.net/davidnasrulloh" target="blank"><img align="center" src="./img/icon-sosmed/behance.png" alt="davidnasrulloh" height="40" width="40" /></a>
+	
 </p>
 
 ---
