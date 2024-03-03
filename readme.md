@@ -15,7 +15,7 @@
 
 ---
 
-## Languages and Tools :
+### Languages and Tools :
 
 <p align="left">
 	<a href="#" target="blank"><img align="center" src="./img/icon-tech/html5.png" alt="davidnasrulloh" height="60" width="60" /></a>
