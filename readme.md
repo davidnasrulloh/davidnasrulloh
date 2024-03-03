@@ -5,12 +5,12 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-	<a href="https://linkedin.com/in/davidnasrulloh" target="blank"><img align="center" src="./img/icon-sosmed/linkedin.png" alt="davidnasrulloh" height="40" width="40" /></a>
-	<a href="https://instagram.com/davidnasrulloh_" target="blank"><img align="center" src="./img/icon-sosmed/instagram.png" alt="davidnasrulloh_" height="40" width="40" /></a>
-	<a href="https://www.tiktok.com/@davidnasrulloh" target="blank"><img align="center" src="./img/icon-sosmed/tiktok.png" alt="davidnasrulloh" height="40" width="40" /></a>
-	<a href="https://www.facebook.com/nasrullohdavid/" target="blank"><img align="center" src="./img/icon-sosmed/facebook.png" alt="nasrullohdavid" height="40" width="40" /></a>
-	<a href="https://dribbble.com/davidnasrulloh" target="blank"><img align="center" src="./img/icon-sosmed/dribble.png" alt="davidnasrulloh" height="40" width="40" /></a>
-	<a href="https://www.behance.net/davidnasrulloh" target="blank"><img align="center" src="./img/icon-sosmed/behance.png" alt="davidnasrulloh" height="40" width="40" /></a>
+	<a href="https://linkedin.com/in/davidnasrulloh" target="_blank"><img align="center" src="./img/icon-sosmed/linkedin.png" alt="davidnasrulloh" height="40" width="40" /></a>
+	<a href="https://instagram.com/davidnasrulloh_" target="_blank"><img align="center" src="./img/icon-sosmed/instagram.png" alt="davidnasrulloh_" height="40" width="40" /></a>
+	<a href="https://www.tiktok.com/@davidnasrulloh" target="_blank"><img align="center" src="./img/icon-sosmed/tiktok.png" alt="davidnasrulloh" height="40" width="40" /></a>
+	<a href="https://www.facebook.com/nasrullohdavid/" target="_blank"><img align="center" src="./img/icon-sosmed/facebook.png" alt="nasrullohdavid" height="40" width="40" /></a>
+	<a href="https://dribbble.com/davidnasrulloh" target="_blank"><img align="center" src="./img/icon-sosmed/dribble.png" alt="davidnasrulloh" height="40" width="40" /></a>
+	<a href="https://www.behance.net/davidnasrulloh" target="_blank"><img align="center" src="./img/icon-sosmed/behance.png" alt="davidnasrulloh" height="40" width="40" /></a>
 </p>
 
 ---
@@ -18,27 +18,27 @@
 ### Languages and Tools :
 
 <p align="left">
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/html5.png" alt="davidnasrulloh" height="60" width="60" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/css.png" alt="davidnasrulloh" height="60" width="60" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/js.png" alt="davidnasrulloh" height="60" width="60" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/typescript.png" alt="davidnasrulloh" height="60" width="60" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/nodejs.png" alt="davidnasrulloh" height="60" width="60" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/reactjs.png" alt="davidnasrulloh" height="60" width="60" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/sveltejs.png" alt="davidnasrulloh" height="60" width="60" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/nextjs.png" alt="davidnasrulloh" height="60" width="60" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/vuejs.png" alt="davidnasrulloh" height="60" width="60" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/php.png" alt="davidnasrulloh" height="60" width="60" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/laravel.png" alt="davidnasrulloh" height="60" width="60" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/tailwind.png" alt="davidnasrulloh" height="60" width="60" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/bootstrap5.png" alt="davidnasrulloh" height="60" width="60" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/material-ui.png" alt="davidnasrulloh" height="60" width="60" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/figma.png" alt="davidnasrulloh" height="60" width="60" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/docker.png" alt="davidnasrulloh" height="60" width="60" /></a>
+	<a href="#" target="__blank"><img align="center" src="./img/icon-tech/html5.png" alt="davidnasrulloh" height="60" width="60" /></a>
+	<a href="#" target="_blank"><img align="center" src="./img/icon-tech/css.png" alt="davidnasrulloh" height="60" width="60" /></a>
+	<a href="#" target="_blank"><img align="center" src="./img/icon-tech/js.png" alt="davidnasrulloh" height="60" width="60" /></a>
+	<a href="#" target="_blank"><img align="center" src="./img/icon-tech/typescript.png" alt="davidnasrulloh" height="60" width="60" /></a>
+	<a href="#" target="_blank"><img align="center" src="./img/icon-tech/nodejs.png" alt="davidnasrulloh" height="60" width="60" /></a>
+	<a href="#" target="_blank"><img align="center" src="./img/icon-tech/reactjs.png" alt="davidnasrulloh" height="60" width="60" /></a>
+	<a href="#" target="_blank"><img align="center" src="./img/icon-tech/sveltejs.png" alt="davidnasrulloh" height="60" width="60" /></a>
+	<a href="#" target="_blank"><img align="center" src="./img/icon-tech/nextjs.png" alt="davidnasrulloh" height="60" width="60" /></a>
+	<a href="#" target="_blank"><img align="center" src="./img/icon-tech/vuejs.png" alt="davidnasrulloh" height="60" width="60" /></a>
+	<a href="#" target="_blank"><img align="center" src="./img/icon-tech/php.png" alt="davidnasrulloh" height="60" width="60" /></a>
+	<a href="#" target="_blank"><img align="center" src="./img/icon-tech/laravel.png" alt="davidnasrulloh" height="60" width="60" /></a>
+	<a href="#" target="_blank"><img align="center" src="./img/icon-tech/tailwind.png" alt="davidnasrulloh" height="60" width="60" /></a>
+	<a href="#" target="_blank"><img align="center" src="./img/icon-tech/bootstrap5.png" alt="davidnasrulloh" height="60" width="60" /></a>
+	<a href="#" target="_blank"><img align="center" src="./img/icon-tech/material-ui.png" alt="davidnasrulloh" height="60" width="60" /></a>
+	<a href="#" target="_blank"><img align="center" src="./img/icon-tech/figma.png" alt="davidnasrulloh" height="60" width="60" /></a>
+	<a href="#" target="_blank"><img align="center" src="./img/icon-tech/docker.png" alt="davidnasrulloh" height="60" width="60" /></a>
 </p>
 
 <p align="left">
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/kotlin.png" alt="davidnasrulloh" height="60" width="60" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/android.png" alt="davidnasrulloh" height="60" width="60" /></a>
+	<a href="#" target="_blank"><img align="center" src="./img/icon-tech/kotlin.png" alt="davidnasrulloh" height="60" width="60" /></a>
+	<a href="#" target="_blank"><img align="center" src="./img/icon-tech/android.png" alt="davidnasrulloh" height="60" width="60" /></a>
 </p>
 
 ---
