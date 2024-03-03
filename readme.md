@@ -52,27 +52,27 @@
 ## Languages and Tools :
 
 <p align="left">
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/html5.png" alt="davidnasrulloh" height="40" width="40" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/css.png" alt="davidnasrulloh" height="40" width="40" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/js.png" alt="davidnasrulloh" height="40" width="40" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/typescript.png" alt="davidnasrulloh" height="40" width="40" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/nodejs.png" alt="davidnasrulloh" height="40" width="40" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/reactjs.png" alt="davidnasrulloh" height="40" width="40" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/sveltejs.png" alt="davidnasrulloh" height="40" width="40" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/nextjs.png" alt="davidnasrulloh" height="40" width="40" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/vuejs.png" alt="davidnasrulloh" height="40" width="40" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/php.png" alt="davidnasrulloh" height="40" width="40" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/laravel.png" alt="davidnasrulloh" height="40" width="40" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/tailwind.png" alt="davidnasrulloh" height="40" width="40" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/bootstrap5.png" alt="davidnasrulloh" height="40" width="40" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/material-ui.png" alt="davidnasrulloh" height="40" width="40" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/figma.png" alt="davidnasrulloh" height="40" width="40" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/docker.png" alt="davidnasrulloh" height="40" width="40" /></a>
+	<a href="#" target="blank"><img align="center" src="./img/icon-tech/html5.png" alt="davidnasrulloh" height="70" width="70" /></a>
+	<a href="#" target="blank"><img align="center" src="./img/icon-tech/css.png" alt="davidnasrulloh" height="70" width="70" /></a>
+	<a href="#" target="blank"><img align="center" src="./img/icon-tech/js.png" alt="davidnasrulloh" height="70" width="70" /></a>
+	<a href="#" target="blank"><img align="center" src="./img/icon-tech/typescript.png" alt="davidnasrulloh" height="70" width="70" /></a>
+	<a href="#" target="blank"><img align="center" src="./img/icon-tech/nodejs.png" alt="davidnasrulloh" height="70" width="70" /></a>
+	<a href="#" target="blank"><img align="center" src="./img/icon-tech/reactjs.png" alt="davidnasrulloh" height="70" width="70" /></a>
+	<a href="#" target="blank"><img align="center" src="./img/icon-tech/sveltejs.png" alt="davidnasrulloh" height="70" width="70" /></a>
+	<a href="#" target="blank"><img align="center" src="./img/icon-tech/nextjs.png" alt="davidnasrulloh" height="70" width="70" /></a>
+	<a href="#" target="blank"><img align="center" src="./img/icon-tech/vuejs.png" alt="davidnasrulloh" height="70" width="70" /></a>
+	<a href="#" target="blank"><img align="center" src="./img/icon-tech/php.png" alt="davidnasrulloh" height="70" width="70" /></a>
+	<a href="#" target="blank"><img align="center" src="./img/icon-tech/laravel.png" alt="davidnasrulloh" height="70" width="70" /></a>
+	<a href="#" target="blank"><img align="center" src="./img/icon-tech/tailwind.png" alt="davidnasrulloh" height="70" width="70" /></a>
+	<a href="#" target="blank"><img align="center" src="./img/icon-tech/bootstrap5.png" alt="davidnasrulloh" height="70" width="70" /></a>
+	<a href="#" target="blank"><img align="center" src="./img/icon-tech/material-ui.png" alt="davidnasrulloh" height="70" width="70" /></a>
+	<a href="#" target="blank"><img align="center" src="./img/icon-tech/figma.png" alt="davidnasrulloh" height="70" width="70" /></a>
+	<a href="#" target="blank"><img align="center" src="./img/icon-tech/docker.png" alt="davidnasrulloh" height="70" width="70" /></a>
 </p>
 
 <p align="left">
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/kotlin.png" alt="davidnasrulloh" height="40" width="40" /></a>
-	<a href="#" target="blank"><img align="center" src="./img/icon-tech/android.png" alt="davidnasrulloh" height="40" width="40" /></a>
+	<a href="#" target="blank"><img align="center" src="./img/icon-tech/kotlin.png" alt="davidnasrulloh" height="70" width="70" /></a>
+	<a href="#" target="blank"><img align="center" src="./img/icon-tech/android.png" alt="davidnasrulloh" height="70" width="70" /></a>
 </p>
 
 <div align="center"> <br/> <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=davidnasrulloh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="davidnasrulloh" /></div>
