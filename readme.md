@@ -1,4 +1,4 @@
-![file1](./img/davidHeader.jpg)
+![file1](./img/davidHeader.png)
 
 <h1 align="center">Hi 👋, I'm David Nasrulloh</h1>
 <h3 align="center">A passionate Frontend Developer and UI UX Researcher and Designer</h3>
@@ -43,39 +43,37 @@
 
 ---
 
-### Web Development - Portfolio 
+### Web Development - Portfolio
 
 ---
 
-| Project Name          | Link Deployment                                                 | Link Repo Github                                                | Tech Stack 	                                             	|
-| --------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------- |
-| Patungin Mini Project | [Patungin App](https://patungin-miniproject-david.netlify.app/) | [github.com/davidnasrulloh/david-mini-project](https://github.com/davidnasrulloh/david-mini-project)          | FE - React Js 							|
-| Booking Office        | [Better Space App](https://betterspace.netlify.app/)            | [github.com/Kelompok3-Office-Booking/fe-react](https://github.com/Kelompok3-Office-Booking/fe-react)          | FE - React Js 							|
-| Gym Typescript        | [Gym App](https://belajar-typescript.netlify.app/)              | [github.com/davidnasrulloh/gym-typescript](https://github.com/davidnasrulloh/gym-typescript)              | FE - React Js 							|
-| Weather Dashboard	| [-]()							          | [github.com/davidnasrulloh/weather-dashboard](https://github.com/davidnasrulloh/weather-dashboard)      	    | Fullstack - React Js & Express JS					|
-| Pokdarwis Gili Iyang  | [Pokdarwis Gili Iyang](https://giliiyang-banraas.netlify.app)   | [github.com/davidnasrulloh/pokdarwis-giliyang](https://github.com/davidnasrulloh/pokdarwis-giliyang)          | FE - React Js 							|
-| Learn Hooks React     | [React Hooks](https://learn-react-hooks-david.netlify.app/)     | [github.com/davidnasrulloh/learn-hooks-react](https://github.com/davidnasrulloh/learn-hooks-react)           | FE - React Js							|
-| Netflix Clone         | [Netflix Clone](https://netflix-clone-david.vercel.app/)        | [github.com/davidnasrulloh/netflix-clone](https://github.com/davidnasrulloh/netflix-clone)               | Fullstack - Mongo DB, Prisma, Next Js, Node Js			|
-| Modern Bank React     | [Modern Bank](https://modern-bank-david.netlify.app/)           | [github.com/davidnasrulloh/modern-bank-react](https://github.com/davidnasrulloh/modern-bank-react)           | FE - React Js 							|
-| Car Hub Dave          | [Cars Dave App](https://cars-dave-nextjs.vercel.app/)           | [github.com/davidnasrulloh/cars-dave](https://github.com/davidnasrulloh/cars-dave)                   | FE - React Js 							|
-| My Todo App           | [Todo App](https://todo-dave.netlify.app/)                      | [github.com/davidnasrulloh/my-todo-app](https://github.com/davidnasrulloh/my-todo-app)                 | FE - React Js 							|
-| Tugas Weekly David    | [Weekly App](https://tugas-weekly-david.netlify.app/)           | [github.com/davidnasrulloh/tugas-weekly-david](https://github.com/davidnasrulloh/tugas-weekly-david)          | FE - React Js 							|	 
+| Project Name          | Link Deployment                                                 | Link Repo Github                                                                                     | Tech Stack                                     |
+| --------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| Patungin Mini Project | [Patungin App](https://patungin-miniproject-david.netlify.app/) | [github.com/davidnasrulloh/david-mini-project](https://github.com/davidnasrulloh/david-mini-project) | FE - React Js                                  |
+| Booking Office        | [Better Space App](https://betterspace.netlify.app/)            | [github.com/Kelompok3-Office-Booking/fe-react](https://github.com/Kelompok3-Office-Booking/fe-react) | FE - React Js                                  |
+| Gym Typescript        | [Gym App](https://belajar-typescript.netlify.app/)              | [github.com/davidnasrulloh/gym-typescript](https://github.com/davidnasrulloh/gym-typescript)         | FE - React Js                                  |
+| Weather Dashboard     | [-]()                                                           | [github.com/davidnasrulloh/weather-dashboard](https://github.com/davidnasrulloh/weather-dashboard)   | Fullstack - React Js & Express JS              |
+| Pokdarwis Gili Iyang  | [Pokdarwis Gili Iyang](https://giliiyang-banraas.netlify.app)   | [github.com/davidnasrulloh/pokdarwis-giliyang](https://github.com/davidnasrulloh/pokdarwis-giliyang) | FE - React Js                                  |
+| Learn Hooks React     | [React Hooks](https://learn-react-hooks-david.netlify.app/)     | [github.com/davidnasrulloh/learn-hooks-react](https://github.com/davidnasrulloh/learn-hooks-react)   | FE - React Js                                  |
+| Netflix Clone         | [Netflix Clone](https://netflix-clone-david.vercel.app/)        | [github.com/davidnasrulloh/netflix-clone](https://github.com/davidnasrulloh/netflix-clone)           | Fullstack - Mongo DB, Prisma, Next Js, Node Js |
+| Modern Bank React     | [Modern Bank](https://modern-bank-david.netlify.app/)           | [github.com/davidnasrulloh/modern-bank-react](https://github.com/davidnasrulloh/modern-bank-react)   | FE - React Js                                  |
+| Car Hub Dave          | [Cars Dave App](https://cars-dave-nextjs.vercel.app/)           | [github.com/davidnasrulloh/cars-dave](https://github.com/davidnasrulloh/cars-dave)                   | FE - React Js                                  |
+| My Todo App           | [Todo App](https://todo-dave.netlify.app/)                      | [github.com/davidnasrulloh/my-todo-app](https://github.com/davidnasrulloh/my-todo-app)               | FE - React Js                                  |
+| Tugas Weekly David    | [Weekly App](https://tugas-weekly-david.netlify.app/)           | [github.com/davidnasrulloh/tugas-weekly-david](https://github.com/davidnasrulloh/tugas-weekly-david) | FE - React Js                                  |
 
-
-### Mobile Development - Portfolio 
+### Mobile Development - Portfolio
 
 ---
 
-| Project Name          | Link Deployment                                                 | Link Repo Github                                                | Tech Stack                                                      |
-| --------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- |
-| DauRuang App				| [DauRuang App](https://github.com/Bangkit-2023-DauRuang/Mobile-Development-DaurRuang/releases/tag/dauruang) 		| [github.com/Bangkit-2023-DauRuang/Mobile-Development-DaurRuang](https://github.com/Bangkit-2023-DauRuang/Mobile-Development-DaurRuang)         	| Kotlin - Android App           |
-| Submission Intermediate Dicoding	| [Intermediate](https://github.com/davidnasrulloh/Submission-Android-Intermediate/releases/tag/v0.0.1) 		| [github.com/davidnasrulloh/Submission-Android-Intermediate](https://github.com/davidnasrulloh/Submission-Android-Intermediate)          		| Kotlin - Android App           |
-| Submission Compose Dicoding		| [Compose](https://github.com/davidnasrulloh/Submission-Android-Jetpack-Compose/releases/tag/v1.0.0) 			| [github.com/davidnasrulloh/Submission-Android-Jetpack-Compose](https://github.com/davidnasrulloh/Submission-Android-Jetpack-Compose)          	| Kotlin - Android App           |
-| Submission Fundamental Dicoding	| [Fundamental](https://github.com/davidnasrulloh/Submission-Android-Fundamental/releases/tag/v0.0.1) 			| [github.com/davidnasrulloh/Submission-Android-Fundamental](https://github.com/davidnasrulloh/Submission-Android-Fundamental)          		| Kotlin - Android App           |
-| Submission Pemula Dicoding		| [Pemula](https://github.com/davidnasrulloh/Submission-Aplikasi-Android-untuk-Pemula/releases/tag/0.0.1) 		| [github.com/davidnasrulloh/Submission-Aplikasi-Android-untuk-Pemula](https://github.com/davidnasrulloh/Submission-Aplikasi-Android-untuk-Pemula)    	| Kotlin - Android App           |
+| Project Name                     | Link Deployment                                                                                             | Link Repo Github                                                                                                                                 | Tech Stack           |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- |
+| DauRuang App                     | [DauRuang App](https://github.com/Bangkit-2023-DauRuang/Mobile-Development-DaurRuang/releases/tag/dauruang) | [github.com/Bangkit-2023-DauRuang/Mobile-Development-DaurRuang](https://github.com/Bangkit-2023-DauRuang/Mobile-Development-DaurRuang)           | Kotlin - Android App |
+| Submission Intermediate Dicoding | [Intermediate](https://github.com/davidnasrulloh/Submission-Android-Intermediate/releases/tag/v0.0.1)       | [github.com/davidnasrulloh/Submission-Android-Intermediate](https://github.com/davidnasrulloh/Submission-Android-Intermediate)                   | Kotlin - Android App |
+| Submission Compose Dicoding      | [Compose](https://github.com/davidnasrulloh/Submission-Android-Jetpack-Compose/releases/tag/v1.0.0)         | [github.com/davidnasrulloh/Submission-Android-Jetpack-Compose](https://github.com/davidnasrulloh/Submission-Android-Jetpack-Compose)             | Kotlin - Android App |
+| Submission Fundamental Dicoding  | [Fundamental](https://github.com/davidnasrulloh/Submission-Android-Fundamental/releases/tag/v0.0.1)         | [github.com/davidnasrulloh/Submission-Android-Fundamental](https://github.com/davidnasrulloh/Submission-Android-Fundamental)                     | Kotlin - Android App |
+| Submission Pemula Dicoding       | [Pemula](https://github.com/davidnasrulloh/Submission-Aplikasi-Android-untuk-Pemula/releases/tag/0.0.1)     | [github.com/davidnasrulloh/Submission-Aplikasi-Android-untuk-Pemula](https://github.com/davidnasrulloh/Submission-Aplikasi-Android-untuk-Pemula) | Kotlin - Android App |
 
-
-----
+---
 
 <div align="center"> <br/> <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=davidnasrulloh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="davidnasrulloh" /></div>
 
